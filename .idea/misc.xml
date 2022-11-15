@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_ad_manager_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_ad_manager_medium_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_ad_manager_news_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_ad_manager_radio_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_ad_manager_video_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_ad_manager_video_small_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_admob_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_admob_medium_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_admob_news_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_admob_radio_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_admob_video_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_admob_video_small_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_dark_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_dark_medium_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_dark_news_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_dark_radio_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_dark_video_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_dark_video_small_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_medium_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_news_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_radio_template_view.xml" value="0.34629629629629627" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_video_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_applovin_video_small_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_fan_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_fan_medium_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_fan_news_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_fan_radio_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_fan_video_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_fan_video_small_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_startapp_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_startapp_medium_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_startapp_news_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_startapp_radio_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_startapp_video_large_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/gnt_startapp_video_small_template_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/view_banner_ad.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/view_native_ad_large.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/view_native_ad_medium.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/view_native_ad_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/view_native_ad_radio.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/view_native_ad_video_large.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/YMG/AndroidStudioProjects/YmgDevelopersAdsSDK/library/src/main/res/layout/view_native_ad_video_small.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
