@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.ymg.library.format.BannerAd;
+
 public class MainActivity extends AppCompatActivity {
     
 
