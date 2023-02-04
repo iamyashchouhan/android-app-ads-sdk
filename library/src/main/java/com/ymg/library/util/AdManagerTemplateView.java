@@ -36,7 +36,7 @@ import com.google.android.gms.ads.nativead.MediaView;
 import com.google.android.gms.ads.nativead.NativeAd;
 import com.google.android.gms.ads.nativead.NativeAd.Image;
 import com.google.android.gms.ads.nativead.NativeAdView;
-import com.solodroid.ads.sdk.R;
+import com.ymg.library.R;
 
 /**
  * Base class for a template view. *
