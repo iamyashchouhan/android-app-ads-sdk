@@ -27,7 +27,6 @@ import com.applovin.sdk.AppLovinMediationProvider;
 import com.applovin.sdk.AppLovinSdk;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.AdapterStatus;
-import com.ironsource.mediationsdk.IronSource;
 import com.ymg.library.R;
 import com.ymg.library.helper.AudienceNetworkInitializeHelper;
 import com.startapp.sdk.adsbase.StartAppAd;
@@ -180,10 +179,6 @@ public class AdNetwork {
 
                     case IRONSOURCE:
                     case FAN_BIDDING_IRONSOURCE:
-                        String advertisingId = IronSource.getAdvertiserId(activity);
-                        IronSource.setUserId(advertisingId);
-                        IronSource.init(activity, ironSourceAppKey);
-                        break;
                 }
                 Log.d(TAG, "[" + adNetwork + "] is selected as Primary Ads");
             }
@@ -247,9 +242,7 @@ public class AdNetwork {
 
                     case IRONSOURCE:
                     case FAN_BIDDING_IRONSOURCE:
-                        String advertisingId = IronSource.getAdvertiserId(activity);
-                        IronSource.setUserId(advertisingId);
-                        IronSource.init(activity, ironSourceAppKey);
+
                         break;
 
                     case NONE:
