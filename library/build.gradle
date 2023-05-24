@@ -48,10 +48,6 @@ dependencies {
     implementation 'com.applovin.mediation:google-adapter:21.3.0.0'
     implementation 'com.applovin.mediation:facebook-adapter:6.12.0.0'
 
-    //ironSource mediation
-    implementation 'com.ironsource.adapters:admobadapter:4.3.31'
-    implementation 'com.ironsource.adapters:applovinadapter:4.3.34'
-    implementation 'com.ironsource.adapters:facebookadapter:4.3.38'
 
     //GDPR
     implementation 'com.google.android.ump:user-messaging-platform:2.0.0'
